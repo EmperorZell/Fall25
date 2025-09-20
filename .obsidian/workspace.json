@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENSC_477/Signals_and_Systems/Systems/System.md",
+                "file": "ENSC_477/Signals_and_Systems/Systems/Linear System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System"
+              "title": "Linear System"
             }
           }
         ]
@@ -184,20 +184,21 @@
   },
   "active": "85b613a6edf12972",
   "lastOpenFiles": [
-    "ENSC_477/Signals_and_Systems/Signals/Signals.md",
     "ENSC_477/Signals_and_Systems/Systems/System.md",
-    "ENSC_477/Signals_and_Systems/Systems/Systems.md",
-    "ENSC_477/Signals_and_Systems/Signals/Signal.md",
-    "ENSC_477/Signals_and_Systems/Systems",
     "ENSC_477/Signals_and_Systems/Signals/Separable Signals.md",
-    "ENSC_477/Signals_and_Systems/Signals",
-    "Pasted image 20250919191445.png",
     "ENSC_477/Signals_and_Systems/Signals/Exponential and Sinusoidal Signals.md",
-    "ENSC_477/ENSC477Textbk.pdf",
     "ENSC_477/Signals_and_Systems/Signals/Rect and Sinc Functions.md",
     "ENSC_477/Signals_and_Systems/Signals/Comb and Sampling.md",
     "ENSC_477/Signals_and_Systems/Signals/Line impulse.md",
     "ENSC_477/Signals_and_Systems/Signals/Impulse A Point Source.md",
+    "ENSC_477/Signals_and_Systems/Signals/Signal.md",
+    "ENSC_477/Signals_and_Systems/Systems/Linear System.md",
+    "ENSC_477/Signals_and_Systems/Signals/Signals.md",
+    "ENSC_477/Signals_and_Systems/Systems/Systems.md",
+    "ENSC_477/Signals_and_Systems/Systems",
+    "ENSC_477/Signals_and_Systems/Signals",
+    "Pasted image 20250919191445.png",
+    "ENSC_477/ENSC477Textbk.pdf",
     "Pasted image 20250919181344.png",
     "Pasted image 20250919181237.png",
     "Pasted image 20250919181216.png",
