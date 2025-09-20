@@ -2,3 +2,4 @@
 [[Impulse A Point Source]]
 [[Line impulse]]
 [[Comb and Sampling]]
+[[Rect and Sinc Functions]]

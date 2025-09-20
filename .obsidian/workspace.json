@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENSC_477/Signals_and_Systems/Impulse A Point Source.md",
+                "file": "ENSC_477/Signals_and_Systems/Exponential and Sinusoidal Signals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Impulse A Point Source"
+              "title": "Exponential and Sinusoidal Signals"
             }
           }
         ]
@@ -182,28 +182,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d78e905487f7b535",
+  "active": "85b613a6edf12972",
   "lastOpenFiles": [
-    "README.md",
-    "ENSC_477/Signals_and_Systems/Signals_and_Systems.md",
-    "ENSC_477/ENSC_477.md",
-    "ENSC_477/Signals_and_Systems/Impulse A Point Source.md",
+    "ENSC_477/ENSC477Textbk.pdf",
+    "ENSC_477/Signals_and_Systems/Separable Signals.md",
+    "ENSC_477/Signals_and_Systems/Exponential and Sinusoidal Signals.md",
+    "ENSC_477/Signals_and_Systems/Rect and Sinc Functions.md",
     "ENSC_477/Signals_and_Systems/Comb and Sampling.md",
     "ENSC_477/Signals_and_Systems/Line impulse.md",
-    "Pictures/1D-CombFunction.png",
-    "Pictures/2D-CombFunction.png",
+    "ENSC_477/Signals_and_Systems/Impulse A Point Source.md",
     "ENSC_477/Signals_and_Systems/Signal.md",
-    "Pictures/Line.png",
-    "Pictures/LineImpulse.png",
-    "ENSC_477/ENSC477Textbk.pdf",
+    "Pasted image 20250919181344.png",
+    "Pasted image 20250919181237.png",
+    "Pasted image 20250919181216.png",
+    "Pasted image 20250919181207.png",
+    "Pictures/2DComplexExponential.png",
+    "Pictures/Rect2D.png",
+    "Pictures/Sinc1D.png",
+    "Pictures/SincGraph.png",
+    "Pictures/SincProd1D.png",
+    "Pictures/Sinc2D.png",
+    "ENSC_477/Signals_and_Systems/Signals_and_Systems.md",
+    "README.md",
+    "ENSC_477/ENSC_477.md",
     "().md",
     "Tags",
-    "Pictures/Sifting.png",
-    "Pictures/LineAndSamplingImpulse.png",
-    "Pictures/MoveImpulse2.png",
-    "Pictures/MoveImpulse.png",
-    "Pictures/2DImpulse.png",
-    "Pictures/1DImpulse.png",
     "ENSC_477/Signals_and_Systems/![[Pasted image 20250910150858.png]].md",
     "Pictures/Pictures.md",
     "Pictures",
