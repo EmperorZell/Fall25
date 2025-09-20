@@ -40,7 +40,9 @@
   "expandedSpaces": [
     "//ENSC_477/ENSC_477/Signals_and_Systems",
     "/",
-    "//ENSC_477"
+    "//ENSC_477",
+    "//ENSC_477/ENSC_477/Signals_and_Systems/ENSC_477/Signals_and_Systems/Systems",
+    "//ENSC_477/ENSC_477/Signals_and_Systems/ENSC_477/Signals_and_Systems/Signals"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
