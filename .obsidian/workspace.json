@@ -11,12 +11,14 @@
             "id": "85b613a6edf12972",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pictures/Pasted image 20250919181207.png"
+                "file": "ENSC_477/Signals_and_Systems/Systems/Shift Invariance.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250919181207"
+              "icon": "lucide-file",
+              "title": "Shift Invariance"
             }
           }
         ]
@@ -182,8 +184,13 @@
   },
   "active": "85b613a6edf12972",
   "lastOpenFiles": [
-    "ENSC_477/Signals_and_Systems/Signals/Signals.md",
-    "ENSC_477/Signals_and_Systems/Systems/Systems.md",
+    "ENSC_477/Signals_and_Systems/Systems/Impulse Response.md",
+    "ENSC_477/Signals_and_Systems/Systems/Shift Invariance.md",
+    "Pasted image 20250923191133.png",
+    "Pasted image 20250923191014.png",
+    "Pasted image 20250923191003.png",
+    "Pasted image 20250923190346.png",
+    "Pasted image 20250923190035.png",
     "ENSC_477/Signals_and_Systems/Systems/Linear System.md",
     "ENSC_477/Signals_and_Systems/Systems/System.md",
     "ENSC_477/Signals_and_Systems/Signals/Separable Signals.md",
@@ -193,26 +200,23 @@
     "ENSC_477/Signals_and_Systems/Signals/Line impulse.md",
     "ENSC_477/Signals_and_Systems/Signals/Impulse A Point Source.md",
     "ENSC_477/Signals_and_Systems/Signals/Signal.md",
+    "Pasted image 20250923185248.png",
+    "Pictures/Pictures.md",
+    "ENSC_477/Signals_and_Systems/Signals/Signals.md",
+    "ENSC_477/Signals_and_Systems/Systems/Systems.md",
+    "ENSC_477/Signals_and_Systems/Signals_and_Systems.md",
+    "Pictures/Pasted image 20250919181207.png",
     "ENSC_477/Signals_and_Systems/Systems",
     "ENSC_477/Signals_and_Systems/Signals",
     "Pictures/Pasted image 20250919191445.png",
     "ENSC_477/ENSC477Textbk.pdf",
     "Pictures/Pasted image 20250919181344.png",
     "Pictures/Pasted image 20250919181237.png",
-    "Pictures/Pasted image 20250919181216.png",
-    "Pictures/Pasted image 20250919181207.png",
-    "Pictures/2DComplexExponential.png",
-    "Pictures/Rect2D.png",
-    "Pictures/Sinc1D.png",
-    "Pictures/SincGraph.png",
-    "Pictures/SincProd1D.png",
-    "ENSC_477/Signals_and_Systems/Signals_and_Systems.md",
     "README.md",
     "ENSC_477/ENSC_477.md",
     "().md",
     "Tags",
     "ENSC_477/Signals_and_Systems/![[Pasted image 20250910150858.png]].md",
-    "Pictures/Pictures.md",
     "Pictures",
     "Vault.md",
     "ENSC_477/Signals_and_Systems",
