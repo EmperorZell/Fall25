@@ -5,3 +5,6 @@ Mathematically if
 
 If a system is both linear and shift invariant, the [[Impulse Response|PSF]] is reduced to a 2D signal instead of 4D:
 ![[Pasted image 20250923191133.png]]
+and 
+![[Pasted image 20250923192010.png]]
+which is the convolution integral (in this case specifically for the impulse response) the result of which gives the system output at any point x,y 
